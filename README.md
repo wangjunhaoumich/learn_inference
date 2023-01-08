@@ -1,2 +1,2 @@
-# learn_triton_server
-Learning repo for Nvidia Triton Inference Server
+# learn_inference
+Learning repo for Inference
