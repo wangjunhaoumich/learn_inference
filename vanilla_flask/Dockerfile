@@ -1,0 +1,1 @@
+FROM ghcr.io/pytorch/pytorch-nightly:latest
